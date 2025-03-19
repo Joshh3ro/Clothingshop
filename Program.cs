@@ -66,6 +66,7 @@ foreach (var Item in clothingIDs)
     Console.WriteLine($"Clothing Sold: {clothingSoldDates[Item]}");
 }
 
+// Help 
 
 
 
